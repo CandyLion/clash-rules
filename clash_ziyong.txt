@@ -1,6 +1,5 @@
 payload:
   - '+.www-cdn.icloud.com.akadns.net'
-  - '+.applemx-icloud.com'
   - '+.icloud-content.com'
   - '+.icloud-isupport.com'
   - '+.icloud.ch'
