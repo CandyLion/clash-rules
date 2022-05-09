@@ -1,2 +1,3 @@
 payload:
   - '+.v2ex.com'
+  - '+.91pron.com'
